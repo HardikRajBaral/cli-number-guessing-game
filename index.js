@@ -12,7 +12,7 @@ program
   .version("1.0.0");
 
 program
-  .command("number-guessing-game")
+  .command("play")
   .description("Start the number guessing game")
   .option("-d, --difficulty [level]", "You have chosen difficulty level")
   .action((option) => {
