@@ -1,6 +1,6 @@
 {
   "name": "@hardik_raj_baral/number-guessing-game",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A fun command-line number guessing game built with Node.js!",
   "main": "index.js",
   "scripts": {
@@ -8,11 +8,11 @@
   },
   "bin": {
     "number-guessing-game": "./index.js",
-    "ngg":"./index.js"
+    "ngg": "./index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HardikRajBaral/number-guessing-game.git" 
+    "url": "git+https://github.com/HardikRajBaral/number-guessing-game.git"
   },
   "keywords": [],
   "author": "",
